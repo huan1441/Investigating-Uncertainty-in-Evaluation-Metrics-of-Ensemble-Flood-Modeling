@@ -1,5 +1,5 @@
 # Investigating Uncertainty in Evaluation Metrics of Ensemble Flood Modeling
-These Python scripts are developed for investigating and demonstrating the sampling uncertainty in several popular evaluation metrics (uncertainty bounds, NSE, KGE, and R<sup>2</sup>, which are concerted to the uncertainty coefficients, UCs) of ensemble flood modeling by using bootstrapping Analysis. For more information, please refer to the presentation at AGU, “[<b><i>An Integrated Evaluation Framework based on Generalized Likelihood Uncertainty Estimation for Quantifying Uncertainty in Flood Modeling</b></i>]( https://www.authorea.com/doi/full/10.1002/essoar.10512978.1)” (Huang and Merwade, 2022).
+These Python scripts are developed for investigating and demonstrating the sampling uncertainty in several popular evaluation metrics (uncertainty bounds, NSE, KGE, and R<sup>2</sup>, which are concerted to the uncertainty coefficients, UCs) of ensemble flood modeling by using bootstrapping Analysis. For more information, please refer to the paper, “[<b><i>Beyond a fixed number: Investigating uncertainty in popular evaluation metrics of ensemble flood modeling using bootstrapping analysis</b></i>]((https://onlinelibrary.wiley.com/doi/full/10.1111/jfr3.12982))” (Huang and Merwade, 2024).
 
 A brief introduction to the features of each Python script is as follows.
 
